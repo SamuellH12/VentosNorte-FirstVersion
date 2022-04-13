@@ -1,4 +1,4 @@
-# VentosNorte-FirstVersion
+# Ventos Norte First Version
 First created version of Ventos Norte (2020)
 
 Avaliable to play [here](https://samuellh12.itch.io/ventos-norte)!
